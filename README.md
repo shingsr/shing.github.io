@@ -1,0 +1,2 @@
+# shing.github.io
+blog
